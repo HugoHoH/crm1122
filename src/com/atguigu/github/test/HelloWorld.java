@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("Hello My first github");
 		System.out.println("github, 第二次request");
 		System.out.println("收到request,完毕");
+		System.out.println("收到request02,完毕");
 	}
 }
